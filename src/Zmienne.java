@@ -3,8 +3,9 @@ public class Zmienne {
     public static void main(String[] args)
     {
         // liczby całkowite
-//        int number10; // deklaracja zmiennej
-//        number10 = 10; // inicjalizacja zmiennej
+//      int number10; // deklaracja zmiennej
+//      number10 = 10; // inicjalizacja zmiennej
+        
         int number = 10; // deklaracja + inicjalizacja zmiennej w jednym
         System.out.println(number);
 
