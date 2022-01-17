@@ -1,5 +1,5 @@
-//public class Operatory {
-//    public static void main(String[] args) {
+public class Operatory {
+        public static void main(String[] args) {
 //
 //////        -> operatory matematyczne
 ////        System.out.println(10 + 10);
@@ -57,14 +57,14 @@
 //
 //                =======
 ////        -> operatory matematyczne
-//        System.out.println(10 + 10);
-//        System.out.println(10 - 10);
-//        System.out.println(10 * 10);
-//        System.out.println(10 / 10);
-//
-//        double a = 10;
-//        double b = 4;
-//        System.out.println(a / b);
+        System.out.println(10 + 10);
+        System.out.println(10 - 10);
+        System.out.println(10 * 10);
+        System.out.println(10 / 10);
+
+        double a = 10;
+        double b = 4;
+        System.out.println(a / b);
 //
 ////       -> operatory porównia
 //        int numOne = 1;
@@ -85,5 +85,5 @@
 //        System.out.println(numOne > numTwo && numOne == 1); // fałsz && prawda = fałsz
 //        System.out.println(numOne > numTwo && numOne != 1); // fałsz && fałsz = fałsz
 //
-//    }
-//}
+        }
+}
